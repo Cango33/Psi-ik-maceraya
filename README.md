@@ -1,4 +1,4 @@
-# Psi-ik-maceraya
+# Psi-ik-CANGO33
 Pi network
 {
   "_links": {
